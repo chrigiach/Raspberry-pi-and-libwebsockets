@@ -35,3 +35,7 @@ A client that connects to a Finnhub web socket and receives information about tr
 2. `make -f Makefile.mk` (to compile)
 3. `./myclient`
 4. `ctrl + C` (to terminate)
+
+
+# Link to the results
+https://drive.google.com/drive/folders/1KbIj85d2BRPrd_JxgGwZcn1rnfmuQUmX?usp=sharing
