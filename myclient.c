@@ -530,7 +530,7 @@ int main(void) {
     // The Finnhub url for the connection and requests
     // Log up to Finnhub.io and get an API key for the connection
     // Put the key inside the quotes. "...?token=...your key must be placed here..."
-    char *api_key = "cbpog8aad3ieg7fatna0"; // PLACE YOUR API KEY HERE!
+    char *api_key = ""; // PLACE YOUR API KEY HERE!
     char *inputURL[300];
     sprintf(inputURL, "wss://ws.finnhub.io/?token=%s", api_key);
     char urlPath[300];
